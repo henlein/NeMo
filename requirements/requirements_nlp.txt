@@ -7,7 +7,7 @@ gdown
 inflect
 sacrebleu[ja]
 nltk>=3.6.5
-fasttext
+#fasttext
 opencc
 pangu
 jieba
