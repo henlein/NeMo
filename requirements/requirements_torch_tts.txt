@@ -2,6 +2,6 @@ matplotlib
 pypinyin
 attrdict
 pystoi
-pesq
+#pesq
 pandas
 inflect
